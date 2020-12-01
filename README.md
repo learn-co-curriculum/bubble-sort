@@ -48,7 +48,7 @@ Pass 1: [1, 2, 3]
 
 Given what you know about bubble sort, implement your own version. Remember, we need to sort the Array in place, so there's no need to declare a new Array and push to it: be sure to return the input Array with its values in order.
 
-Lastly, you may wish to look up how to swap values in whichever language you choose to solve the problem in. Some languages, like Ruby and JavaScript provide shortcuts!
+Lastly, you may wish to look up how to swap values in whichever language you choose to solve the problem in. Some languages, like Ruby and JavaScript, provide shortcuts!
 
 When you write up the explanation of your solution, don't forget to calculate Big O for its time complexity.
 
