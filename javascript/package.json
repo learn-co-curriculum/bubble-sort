@@ -1,8 +1,8 @@
 {
-  "name": "algo",
+  "name": "bubble_sort",
   "version": "1.0.0",
-  "description": "reverse a string",
-  "main": "algo.js",
+  "description": "bubble sort",
+  "main": "bubble_sort.js",
   "dependencies": {
     "jest": "^26.6.3"
   },

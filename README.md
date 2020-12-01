@@ -50,6 +50,8 @@ Given what you know about bubble sort, implement your own version. Remember, we 
 
 Lastly, you may wish to look up how to swap values in whichever language you choose to solve the problem in. Some languages, like Ruby and JavaScript provide shortcuts!
 
+When you write up the explanation of your solution, don't forget to calculate Big O for its time complexity.
+
 Use the language of your choosing. We've included starter files for some languages where you can pseudocode, explain your solution and code.
 
 ## Before you start coding:
