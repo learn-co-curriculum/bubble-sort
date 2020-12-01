@@ -81,4 +81,6 @@ end
 # to false because of the swap. We'll eventually get to a point where there are no
 # swaps and at that point, sorted will remain true and when the iteration ends,
 # we'll exit the outer loop and return the Array.
+# Big O for time complexity is O(n^2) quadratic time because of the loop within a loop. 
+# In the worst case we'll end up going over the whole Array roughly once per element.
 ##################################################################################
