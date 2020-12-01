@@ -2,7 +2,7 @@
 
 **Fork and then clone me!**
 
-Bubble sort is considered one of the simpler sorting algorithms, and it is highly efficient at handling already sorted lists. While it performs well for short lists, it does not perforrm well for longer lists. As a result, the sorting functions built into programming languages do not use bubble sort.
+Bubble sort is considered one of the simpler sorting algorithms, and it is highly efficient at handling already sorted lists. While it performs well for sorted lists and short lists, it does not perform well for longer lists. As a result, the sorting functions built into programming languages do not use bubble sort.
 
 ```
 Input: [3, 2, 1, 4]
