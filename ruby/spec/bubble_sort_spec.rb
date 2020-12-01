@@ -1,4 +1,4 @@
-require "../solutions/bubble_sort.rb"
+require "./bubble_sort.rb"
 
 RSpec.describe "bubble_sort" do
   it "returns the provided empty Array when it's provided as an argument" do
