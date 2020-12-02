@@ -52,6 +52,8 @@ Lastly, you may wish to look up how to swap values in whichever language you cho
 
 When you write up the explanation of your solution, don't forget to calculate Big O for its time complexity.
 
+Also take some time to think about what you learned by solving this challenge. What problem solving techniques did you use, coding or otherwise? How can they help you solve other problems?
+
 Use the language of your choosing. We've included starter files for some languages where you can pseudocode, explain your solution and code.
 
 ## Before you start coding:
