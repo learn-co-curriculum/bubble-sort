@@ -1,4 +1,4 @@
-# Day 1: Bubble Sort
+# Days 1-2: Bubble Sort
 
 **Fork and then clone me!**
 
